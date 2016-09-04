@@ -107,7 +107,7 @@ body{
 .soon h1 {
 	text-align: center;
 	color: #fff;
-	font-size: 3em;
+	font-size: 2em;
 	font-family: 'Lato';
 	font-weight: bolder;
 }
@@ -161,9 +161,18 @@ input{
 .count {
     position:relative;
     margin-bottom:6%;
-    right: 8%;
     font-family: 'Lato';
+		text-align:center;
+
 }
+
+.logo {
+    position:relative;
+    margin-bottom:6%;
+    font-family: 'Lato';
+		text-align:center;
+}
+
 .clock {
     font-size:75px;
     text-align:center;
